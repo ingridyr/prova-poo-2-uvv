@@ -1,0 +1,15 @@
+C:\DevC\projeto-prova-poo2\projeto-prova-poo2\bin\Debug\projeto-prova-poo2.exe.config
+C:\DevC\projeto-prova-poo2\projeto-prova-poo2\bin\Debug\projeto-prova-poo2.exe
+C:\DevC\projeto-prova-poo2\projeto-prova-poo2\bin\Debug\projeto-prova-poo2.pdb
+C:\DevC\projeto-prova-poo2\projeto-prova-poo2\obj\Debug\projeto-prova-poo2.csproj.AssemblyReference.cache
+C:\DevC\projeto-prova-poo2\projeto-prova-poo2\obj\Debug\projeto-prova-poo2.csproj.SuggestedBindingRedirects.cache
+C:\DevC\projeto-prova-poo2\projeto-prova-poo2\obj\Debug\projeto-prova-poo2.csproj.CoreCompileInputs.cache
+C:\DevC\projeto-prova-poo2\projeto-prova-poo2\obj\Debug\projeto-prova-poo2.exe
+C:\DevC\projeto-prova-poo2\projeto-prova-poo2\obj\Debug\projeto-prova-poo2.pdb
+C:\Users\ingri\OneDrive\Área de Trabalho\projeto-prova-poo2\projeto-prova-poo2\bin\Debug\projeto-prova-poo2.exe.config
+C:\Users\ingri\OneDrive\Área de Trabalho\projeto-prova-poo2\projeto-prova-poo2\bin\Debug\projeto-prova-poo2.exe
+C:\Users\ingri\OneDrive\Área de Trabalho\projeto-prova-poo2\projeto-prova-poo2\bin\Debug\projeto-prova-poo2.pdb
+C:\Users\ingri\OneDrive\Área de Trabalho\projeto-prova-poo2\projeto-prova-poo2\obj\Debug\projeto-prova-poo2.csproj.AssemblyReference.cache
+C:\Users\ingri\OneDrive\Área de Trabalho\projeto-prova-poo2\projeto-prova-poo2\obj\Debug\projeto-prova-poo2.csproj.CoreCompileInputs.cache
+C:\Users\ingri\OneDrive\Área de Trabalho\projeto-prova-poo2\projeto-prova-poo2\obj\Debug\projeto-prova-poo2.exe
+C:\Users\ingri\OneDrive\Área de Trabalho\projeto-prova-poo2\projeto-prova-poo2\obj\Debug\projeto-prova-poo2.pdb
